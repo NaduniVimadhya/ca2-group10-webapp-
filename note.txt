@@ -1,4 +1,10 @@
 Group Number: Group 10
 my name is mahroos
 my name is naduni
+<<<<<<< HEAD
 my name is nimthaka
+my name is imal.
+=======
+my name is Sandaru
+my name is Nimthaka
+>>>>>>> 010f8982bb54ca9b471197ea82f8c0bf91dea225
